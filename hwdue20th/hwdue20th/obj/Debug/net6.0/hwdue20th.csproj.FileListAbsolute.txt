@@ -1,0 +1,15 @@
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/bin/Debug/net6.0/hwdue20th
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/bin/Debug/net6.0/hwdue20th.deps.json
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/bin/Debug/net6.0/hwdue20th.runtimeconfig.json
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/bin/Debug/net6.0/hwdue20th.dll
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/bin/Debug/net6.0/hwdue20th.pdb
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/obj/Debug/net6.0/hwdue20th.csproj.AssemblyReference.cache
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/obj/Debug/net6.0/hwdue20th.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/obj/Debug/net6.0/hwdue20th.AssemblyInfoInputs.cache
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/obj/Debug/net6.0/hwdue20th.AssemblyInfo.cs
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/obj/Debug/net6.0/hwdue20th.csproj.CoreCompileInputs.cache
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/obj/Debug/net6.0/hwdue20th.dll
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/obj/Debug/net6.0/refint/hwdue20th.dll
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/obj/Debug/net6.0/hwdue20th.pdb
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/obj/Debug/net6.0/hwdue20th.genruntimeconfig.cache
+/Users/zahra/Desktop/hwdue20th/hwdue20th/hwdue20th/obj/Debug/net6.0/ref/hwdue20th.dll
